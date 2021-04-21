@@ -54,15 +54,26 @@
 
 ## Genul liric
 
-*Afară-i toamnă*, Mihai Eminescu - 11-12 silabe, 2 catrene și 2 terține, rimă îmbrățișată, dominant este sentimentul de tristețe profundă a autorului, în concordanță cu toamna, anotimpul stingerii și al amorțirii; în timp ce apariția feminină amplifică starea de visare a poetului
+[*Afară-i toamnă*](https://www.versuri.ro/versuri/mihai-eminescu-afara-i-toamna-_yky1.html#), Mihai Eminescu
+- 11-12 silabe, 2 catrene și 2 terține, rimă îmbrățișată, dominant este sentimentul de tristețe profundă a autorului, în concordanță cu toamna, anotimpul stingerii și al amorțirii; în timp ce apariția feminină amplifică starea de visare a poetului
+
+[*Amurg în deltă*](https://www.versuri.ro/versuri/ion-pillat-amurg-in-delta-_sw67.html#), Ion Pillat
+
+[*Epiognii*](http://www.romanianvoice.com/poezii/poezii/epigonii.php), Mihai Eminescu
 
 [*Fiind băiet păduri cutreieram*](https://ro.wikisource.org/wiki/Fiind_b%C4%83iet_p%C4%83duri_cutreieram), Mihai Eminescu
 
-*Lacul*, Mihai Eminescu - 7-8 silabe, 5 catrene, rimă imperfectă, temele sunt iubirea, natura, iar textul evidențiază dorința poetului de a întâlni persoana mult îndrăgită, într-un cadru natural, noaptea, sub lumina lunii
+[*Lacul*](https://ro.wikisource.org/wiki/Lacul_(Eminescu)), Mihai Eminescu
+- 7-8 silabe, 5 catrene, rimă imperfectă, temele sunt iubirea, natura, iar textul evidențiază dorința poetului de a întâlni persoana mult îndrăgită, într-un cadru natural, noaptea, sub lumina lunii
 
-*Pastel*, George Bacovia - 5 silabe, 4 catrene, rimă imperfectă, poetul vede natura ca pe un loc lipsit de orice mișcare, degradat și trist; amorțirea toamnei face ca toate obiectele să își piardă rezonanța demult armonioasă
+[*Mai am un singur dor*](http://www.romanianvoice.com/poezii/poezii/singurdor.php), Mihai Eminescu
 
-*Pastel*, George Coșbuc - *to be continued*
+[*Noaptea...*](http://www.romanianvoice.com/poezii/poezii/noaptea.php), Mihai Eminescu
+
+[*Pastel*](https://www.poezie.ro/index.php/poetry/20171/Pastel), George Bacovia
+- 5 silabe, 4 catrene, rimă imperfectă, poetul vede natura ca pe un loc lipsit de orice mișcare, degradat și trist; amorțirea toamnei face ca toate obiectele să își piardă rezonanța demult armonioasă
+
+[*Pastel*](https://poeziisiversuri.com/george-cosbuc/pastel-3/), George Coșbuc
 
 ## Genul dramatic
 
