@@ -34,7 +34,7 @@
 
 [*La hanul lui Mânjoală*](https://ro.wikisource.org/wiki/La_hanul_lui_M%C3%A2njoal%C4%83), Ion Luca Caragiale
 
-[*La vulturi* (comentariu)](La_vulturi_comentariu.md), Gala Galaction
+[*La Vulturi!* (comentariu)](La_vulturi_comentariu.md), Gala Galaction
 
 [*Numără stelele: O poveste din Copenhaga* (rezumat)](https://carturesti.ro/blog/numara-stelele-o-poveste-din-copenhaga-de-lois-lowry/), Lois Lowry
 
@@ -87,7 +87,7 @@
 
 [*Amurg în deltă*](https://www.versuri.ro/versuri/ion-pillat-amurg-in-delta-_sw67.html#), Ion Pillat
 
-[*Epiognii*](http://www.romanianvoice.com/poezii/poezii/epigonii.php), Mihai Eminescu
+[*Epigonii*](http://www.romanianvoice.com/poezii/poezii/epigonii.php), Mihai Eminescu
 
 [*Fiind băiet păduri cutreieram*](https://ro.wikisource.org/wiki/Fiind_b%C4%83iet_p%C4%83duri_cutreieram), Mihai Eminescu
 
