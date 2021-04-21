@@ -14,6 +14,8 @@
 ## Schițe
 [*D-l Goe*](https://ro.wikisource.org/wiki/D-l_Goe), Ion Luca Caragiale
 
+[*Vizită*](https://ro.wikisource.org/wiki/Vizit%C4%83...), Ion Luca Caragiale
+
 # Genul liric
 *Afară-i toamnă*, Mihai Eminescu - 11-12 silabe, 2 catrene și 2 terține, rimă îmbrățișată, dominant este sentimentul de tristețe profundă a autorului, în concordanță cu toamna, anotimpul stingerii și al amorțirii; în timp ce apariția feminină amplifică starea de visare a poetului
 
