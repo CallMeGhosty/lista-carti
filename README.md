@@ -22,11 +22,15 @@
 
 [*Matilda* (rezumat)](https://www.bookstyle.ro/matilda-de-roald-dahl-rezumat-carte/), Roald Dahl
 
+[*Minunea* (rezumat)](http://teodoraleon.blogspot.com/2013/12/despre-minunea-de-r-j-palacio.html), R. J. Palacio
+
 [*Moara lui Călifar*](https://manuale.edu.ro/manuale/Clasa%20a%20VII-a/Limba%20si%20literatura%20romana/U0MgQVJUIEtMRVRUIFNS/#book/u4-114-115), Gala Galaction
 
 *Ocolul pământului în 80 de zile*, Jules Verne
 
 [*Pasărea măiastră*](https://www.povesti-pentru-copii.com/petre-ispirescu/pasarea-maiastra.html), Petre Ispirescu
+
+*Pax*, Sara Pennypacker, *ăsta e super important și dacă ai găsi rezumat la el ar fi super bine, că e despre relația (om/copil)-animal*
 
 [*Popa Tanda*](https://manuale.edu.ro/manuale/Clasa%20a%20VII-a/Limba%20si%20literatura%20romana/U0MgQVJUIEtMRVRUIFNS/#book/u2-46-47), Ioan Slavici
 
