@@ -6,6 +6,10 @@
 
 [*D-l Goe*](https://ro.wikisource.org/wiki/D-l_Goe), Ion Luca Caragiale
 
+[*Făt-Frumos din lacrimă*](https://www.povesti-pentru-copii.com/mihai-eminescu/fat-frumos-din-lacrima.html), Mihai Eminescu
+
+[*Fram, ursul polar* (fragmente)](http://e-povesti.ro/povesti/fram_ursul_polar/), Cezar Petrescu
+
 [*Jurnalul Annei Frank* (rezumat)](https://ro.wikipedia.org/wiki/Jurnalul_Annei_Frank#Rezumat), Anne Frank
 
 [*Matilda* (rezumat)](https://www.bookstyle.ro/matilda-de-roald-dahl-rezumat-carte/), Roald Dahl
@@ -14,7 +18,11 @@
 
 *Ocolul pământului în 80 de zile*, Jules Verne
 
+[*Prâslea cel voinic și merele de aur*](https://ro.wikisource.org/wiki/Pr%C3%A2slea_cel_voinic_%C8%99i_merele_de_aur), Petre Ispirescu
+
 [*Popa Tanda*](https://manuale.edu.ro/manuale/Clasa%20a%20VII-a/Limba%20si%20literatura%20romana/U0MgQVJUIEtMRVRUIFNS/#book/u2-46-47), Ioan Slavici
+
+[*Povestea lui Harap-Alb*](https://ro.wikisource.org/wiki/Povestea_lui_Harap-Alb), Ion Creangă
 
 [*Tinerețe fără bătrânețe și viață fără de moarte*](https://www.povesti-pentru-copii.com/petre-ispirescu/tinerete-fara-batranete-si-viata-fara-de-moarte.html), Petre Ispirescu
 
