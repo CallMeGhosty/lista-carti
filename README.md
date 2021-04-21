@@ -10,7 +10,7 @@
 
 *Cireșarii* (rezumate): [vol. 1](https://www.referat.ro/referate/Ciresarii_vol_I_5939.html), [vol. 2](https://www.referat.ro/referate/Ciresarii_vol_I_5939.html), [vol. 3](https://www.referat.ro/referate/Ciresarii___volumul_III_1432.html), [vol. 4](https://www.referat.ro/referate/Ciresarii_IV___Constantin_Chirita_1433.html), [vol. 5](https://www.referat.ro/referate/Ciresarii___volumul_V_1434.html), Constantin Chiriță
 
-[*Cititorul din peșteră*](Cititorul_din_peșteră.md)
+[*Cititorul din peșteră* (rezumat)](Cititorul_din_peșteră_rezumat.md), Rui Zink
 
 *Cravata roșie*, Ji-Li Jiang
 
@@ -24,11 +24,19 @@
 
 [*Fram, ursul polar* (fragmente)](http://e-povesti.ro/povesti/fram_ursul_polar/), Cezar Petrescu
 
+[*Harry Potter* (rezumat)](https://ro.wikipedia.org/wiki/Harry_Potter_%C8%99i_Piatra_Filozofal%C4%83#Rezumat), J. K. Rowling
+
 [*Hobbitul*](https://www.bookstyle.ro/hobbitul-jrr-tolkien-editura-rao-carte-ilustrata-de-jemima-catlin/), J. R. R. Tolkien
 
 [*Inocenții* (rezumat)](http://lecturile-emei.blogspot.com/2017/05/inocentii-ioana-parvulescu.html), Ioana Pârvulescu
 
 [*Jurnalul Annei Frank* (rezumat)](https://ro.wikipedia.org/wiki/Jurnalul_Annei_Frank#Rezumat), Anne Frank
+
+[*La hanul lui Mânjoală*](https://ro.wikisource.org/wiki/La_hanul_lui_M%C3%A2njoal%C4%83), Ion Luca Caragiale
+
+[*La vulturi* (comentariu)](La_vulturi_comentariu.md), Gala Galaction
+
+[*Numără stelele: O poveste din Copenhaga* (rezumat)](https://carturesti.ro/blog/numara-stelele-o-poveste-din-copenhaga-de-lois-lowry/), Lois Lowry
 
 [*Matilda* (rezumat)](https://www.bookstyle.ro/matilda-de-roald-dahl-rezumat-carte/), Roald Dahl
 
@@ -47,6 +55,8 @@
 [*Povestea lui Harap-Alb*](https://ro.wikisource.org/wiki/Povestea_lui_Harap-Alb), Ion Creangă
 
 [*Prâslea cel voinic și merele de aur*](https://ro.wikisource.org/wiki/Pr%C3%A2slea_cel_voinic_%C8%99i_merele_de_aur), Petre Ispirescu
+
+[*Prințul fericit*](http://rezumatecarti.robloguri.info/2019/04/rezumat-lung-printul-fericit-de-oscar-wilde.html), Oscar Wilde
 
 [*Tinerețe fără bătrânețe și viață fără de moarte*](https://www.povesti-pentru-copii.com/petre-ispirescu/tinerete-fara-batranete-si-viata-fara-de-moarte.html), Petre Ispirescu
 
