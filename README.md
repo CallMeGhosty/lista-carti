@@ -35,4 +35,4 @@
 [*Vrem să vă dăruim câte o fereastră*](https://manuale.edu.ro/manuale/Clasa%20a%20VII-a/Limba%20si%20literatura%20romana/U0MgQVJUIEtMRVRUIFNS/#book/u5-154-155), Matei Vișniec
 
 # Note
-Link-urile redirecționează spre textul integral sau spre fragmente de text dacă nu este precizat altfel.
+Link-urile redirecționează spre textul integral sau spre fragmente din text dacă nu este precizat altfel.
