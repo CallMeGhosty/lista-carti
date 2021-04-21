@@ -3,19 +3,17 @@
 
 [*Cum e lumea*](https://manuale.edu.ro/manuale/Clasa%20a%20VII-a/Limba%20si%20literatura%20romana/U0MgQVJUIEtMRVRUIFNS/#book/u1-10-11), Veronica D. Niculescu
 
+[*D-l Goe*](https://ro.wikisource.org/wiki/D-l_Goe), Ion Luca Caragiale
+
 [*Jurnalul Annei Frank (rezumat)*](https://ro.wikipedia.org/wiki/Jurnalul_Annei_Frank#Rezumat), Anne Frank
 
 [*Moara lui Călifar*](https://manuale.edu.ro/manuale/Clasa%20a%20VII-a/Limba%20si%20literatura%20romana/U0MgQVJUIEtMRVRUIFNS/#book/u4-114-115), Gala Galaction
 
+*Ocolul pământului în 80 de zile*, Jules Verne
+
 [*Popa Tanda*](https://manuale.edu.ro/manuale/Clasa%20a%20VII-a/Limba%20si%20literatura%20romana/U0MgQVJUIEtMRVRUIFNS/#book/u2-46-47), Ioan Slavici
 
 [*Toate pînzele sus!*](https://ro.wikipedia.org/wiki/Toate_p%C3%A2nzele_sus!#Rezumat), Radu Tudoran
-
-## Romane
-*Ocolul pământului în 80 de zile*, Jules Verne
-
-## Schițe
-[*D-l Goe*](https://ro.wikisource.org/wiki/D-l_Goe), Ion Luca Caragiale
 
 [*Vizită*](https://ro.wikisource.org/wiki/Vizit%C4%83...), Ion Luca Caragiale
 
