@@ -5,7 +5,9 @@
 
 [*D-l Goe*](https://ro.wikisource.org/wiki/D-l_Goe), Ion Luca Caragiale
 
-[*Jurnalul Annei Frank (rezumat)*](https://ro.wikipedia.org/wiki/Jurnalul_Annei_Frank#Rezumat), Anne Frank
+[*Jurnalul Annei Frank* (rezumat)](https://ro.wikipedia.org/wiki/Jurnalul_Annei_Frank#Rezumat), Anne Frank
+
+[*Matilda* (rezumat)](https://www.bookstyle.ro/matilda-de-roald-dahl-rezumat-carte/), Roald Dahl
 
 [*Moara lui Călifar*](https://manuale.edu.ro/manuale/Clasa%20a%20VII-a/Limba%20si%20literatura%20romana/U0MgQVJUIEtMRVRUIFNS/#book/u4-114-115), Gala Galaction
 
