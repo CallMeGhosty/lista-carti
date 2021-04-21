@@ -1,5 +1,7 @@
 ## Genul epic
 
+[*Cei trei mușchetari* (rezumat)](https://ro.wikipedia.org/wiki/Cei_trei_mu%C8%99chetari#Povestea), Alexandre Dumas
+
 *Cireșarii* (rezumate): [vol. 1](https://www.referat.ro/referate/Ciresarii_vol_I_5939.html), [vol. 2](https://www.referat.ro/referate/Ciresarii_vol_I_5939.html), [vol. 3](https://www.referat.ro/referate/Ciresarii___volumul_III_1432.html), [vol. 4](https://www.referat.ro/referate/Ciresarii_IV___Constantin_Chirita_1433.html), [vol. 5](https://www.referat.ro/referate/Ciresarii___volumul_V_1434.html), Constantin Chiriță
 
 *Cravata roșie*, Ji-Li Jiang
@@ -44,7 +46,7 @@
 
 [*Iepurele, ogarul și copoiul*](https://ro.wikisource.org/wiki/Iepurele,_ogarul_%C8%99i_copoiul), Grigore Alexandrescu
 
-[*Papagalul și celelalte păsări*](https://www.povesti-pentru-copii.com/fabule/grigore-alexandrescu/papagalul-si-celelalte-pasari.html)
+[*Papagalul și celelalte păsări*](https://www.povesti-pentru-copii.com/fabule/grigore-alexandrescu/papagalul-si-celelalte-pasari.html), Grigore Alexandrescu
 
 [*Privighetoarea în colivie*](https://www.povesti-pentru-copii.com/fabule/grigore-alexandrescu/privighetoarea-in-colivie.html), Grigore Alexandrescu
 
