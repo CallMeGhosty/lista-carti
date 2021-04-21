@@ -16,7 +16,9 @@
 - teme: copilăria, istoria, prietenia, războiul;
 - sumar: drama unei fetițe de 12 ani și a familiei ei în timpul Revoluției Culturale a lui Mao Zedong
 
-[*Cui i-e frică de computer*](https://docplayer.ro/116279959-Cui-i-e-fric%C4%83-de-computer.html), **-**
+[*Cui i-e frică de computer: Juniorii*](https://docplayer.ro/116279959-Cui-i-e-fric%C4%83-de-computer.html), **-**
+- temă: evoluția tehnologiei informației
+- sumar: într-o lume mult mai dezvoltată, *Credo 1.0*, un sistem care înmagazinează energia, este inventat și se descoperă că persoanele credincioase „emit” cea mai multă energie
 
 [*Cum e lumea*](https://manuale.edu.ro/manuale/Clasa%20a%20VII-a/Limba%20si%20literatura%20romana/U0MgQVJUIEtMRVRUIFNS/#book/u1-10-11), Veronica D. Niculescu
 - temă: condiția animalului aflat în captivitate;
