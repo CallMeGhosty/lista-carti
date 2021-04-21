@@ -6,6 +6,8 @@
 
 *Cravata roșie*, Ji-Li Jiang
 
+[*Cui i-e frică de computer*](https://docplayer.ro/116279959-Cui-i-e-fric%C4%83-de-computer.html), **-**
+
 [*Cum e lumea*](https://manuale.edu.ro/manuale/Clasa%20a%20VII-a/Limba%20si%20literatura%20romana/U0MgQVJUIEtMRVRUIFNS/#book/u1-10-11), Veronica D. Niculescu
 
 [*D-l Goe*](https://ro.wikisource.org/wiki/D-l_Goe), Ion Luca Caragiale
@@ -24,11 +26,13 @@
 
 *Ocolul pământului în 80 de zile*, Jules Verne
 
-[*Prâslea cel voinic și merele de aur*](https://ro.wikisource.org/wiki/Pr%C3%A2slea_cel_voinic_%C8%99i_merele_de_aur), Petre Ispirescu
+[*Pasărea măiastră*](https://www.povesti-pentru-copii.com/petre-ispirescu/pasarea-maiastra.html), Petre Ispirescu
 
 [*Popa Tanda*](https://manuale.edu.ro/manuale/Clasa%20a%20VII-a/Limba%20si%20literatura%20romana/U0MgQVJUIEtMRVRUIFNS/#book/u2-46-47), Ioan Slavici
 
 [*Povestea lui Harap-Alb*](https://ro.wikisource.org/wiki/Povestea_lui_Harap-Alb), Ion Creangă
+
+[*Prâslea cel voinic și merele de aur*](https://ro.wikisource.org/wiki/Pr%C3%A2slea_cel_voinic_%C8%99i_merele_de_aur), Petre Ispirescu
 
 [*Tinerețe fără bătrânețe și viață fără de moarte*](https://www.povesti-pentru-copii.com/petre-ispirescu/tinerete-fara-batranete-si-viata-fara-de-moarte.html), Petre Ispirescu
 
@@ -87,4 +91,4 @@
 
 ## Note
 
-Link-urile redirecționează spre textul integral sau spre fragmente din text dacă nu este precizat altfel.
+Link-urile redirecționează spre textul integral dacă nu este precizat altfel.
