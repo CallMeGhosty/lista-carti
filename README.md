@@ -3,6 +3,8 @@
 *Cartea cu jucării*, Tudor Arghezi
 
 [*Castelul de sticlă* (rezumat)](https://momenteinviata.ro/castelul-de-sticla-de-jeannette-walls/), Jeannette Walls
+- teme: copilăria, familia, neglijența părinților
+- sumar: Jeannette este fiica familiei Walls, are două surori și un frate și trăiește drama unor părinți extrem de neglijenți
 
 *Cazul Magheru*, Mihail Drumeș
 
