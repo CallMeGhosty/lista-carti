@@ -14,6 +14,8 @@
 
 [*Cititorul din peșteră* (rezumat)](Cititorul_din_peșteră_rezumat.md), Rui Zink
 
+*Colț alb*, Jack London
+
 [*Cravata roșie* (rezumat)](https://www.observatorcultural.ro/articol/trista-poveste-candidei-ji-li-si-familiei-sale/), Ji-Li Jiang
 - teme: copilăria, istoria, prietenia, războiul;
 - sumar: drama unei fetițe de 12 ani și a familiei ei în timpul Revoluției Culturale a lui Mao Zedong
